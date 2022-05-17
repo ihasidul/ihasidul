@@ -12,7 +12,8 @@
 ![Hasidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihasidul&show_icons=true&theme=city_lights)
 </a>
 
-
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/ihasidul/count.svg)
 <!--
 **ihasidul/ihasidul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
