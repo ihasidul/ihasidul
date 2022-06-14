@@ -20,6 +20,15 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihasidul&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
 </div>
+ 🧑‍💻 Tech i am using: 
+ <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+</p>
+
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /> -->
+          
 <!--
 **ihasidul/ihasidul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Visitors
