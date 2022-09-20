@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/ihasidul/">
 
 </a>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ihasidul" alt="Hasidul Islam" />
-</p>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ihasidul&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
