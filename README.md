@@ -12,7 +12,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihasidul&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" /> -->
 </div>
 <br/>
-<h3>🧑‍💻 Tech i am using: </h3>
+<!-- <h3>🧑‍💻 Tech i am using: </h3>
 <table>
   <tr>
     <td align="center">
@@ -56,4 +56,4 @@
       <br>AWS (Amazon Web Services)
     </td>
   </tr>
-</table>
+</table> -->
