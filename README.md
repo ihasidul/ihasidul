@@ -7,9 +7,9 @@
 </a>
 
 <div>
-  <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ihasidul&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" /> -->
+ <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ihasidul&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" /> -->
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihasidul&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihasidul&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" /> 
 </div>
 <br/>
 <!-- <h3>🧑‍💻 Tech i am using: </h3>
@@ -36,23 +36,27 @@
       <br>Linux
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"" alt="postgresql" width="55" height="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
       <br>PostgreSQL
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"" alt="mysql" width="55" height="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
       <br>MySQL
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"" alt="sqlite" width="55" height="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="55" height="55"/>
       <br>SQLite
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"" alt="apache" width="55" height="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"" alt="apache" width="55" height="55"/>
+      <br>Docker
+    </td>                                                                                                                                        
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="apache" width="55" height="55"/>
       <br>Apache
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"" alt="aws" width="55" height="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/>
       <br>AWS (Amazon Web Services)
     </td>
   </tr>
