@@ -12,6 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihasidul&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" /> 
 </div>
 <br/>
+
+## A random meme for you
+
+<img src='https://random-memer-production-e02a.up.railway.app/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width="300">
 <!-- <h3>🧑‍💻 Tech i am using: </h3>
 <table>
   <tr>
