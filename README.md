@@ -1,6 +1,6 @@
 # Hi, I am Hasidul 👋
 
-**Welcome to my Github. Currently i am working as a software engineer.Interested in learning new tricks.**
+**Welcome to my GitHub. Currently, I am working as a software engineer. Interested in learning new tricks.**
 
 <a href="https://www.linkedin.com/in/ihasidul/">
 
