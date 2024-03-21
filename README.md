@@ -1,6 +1,5 @@
 # Hi, I am Hasidul 👋
-
-**Welcome to my GitHub. Currently, I am working as a software engineer. Interested in learning new tricks.**
+**Welcome to my GitHub. Currently, I am working as a software engineer. I am interested in learning new tricks.**
 
 <a href="https://www.linkedin.com/in/ihasidul/">
 
@@ -13,9 +12,11 @@
 </div>
 <br/>
 
-## A random meme for you
 
-<img src='https://random-memer-production-e02a.up.railway.app/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width="300">
+
+<!--
+## A random meme for you
+<img src='https://random-memer-production-e02a.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="300"> -->
 <!-- <h3>🧑‍💻 Tech i am using: </h3>
 <table>
   <tr>
