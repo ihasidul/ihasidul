@@ -1,10 +1,10 @@
 # Hi, I am Hasidul 👋
-**Welcome to my GitHub. Currently, I am working as a software engineer. I am interested in learning new tricks.**
+**I am a software engineer specializing in backend technologies and infrastructure.**
 
 <a href="https://www.linkedin.com/in/ihasidul/">
 
 </a>
-
+ <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihasidul&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -15,7 +15,7 @@
 <br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ihasidul&theme=gruvbox&hide_border=false)<br/>
-
+-->
 
  <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ihasidul&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" /> -->
 
